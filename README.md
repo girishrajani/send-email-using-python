@@ -7,7 +7,7 @@ A repostory to send email using python
 Reference: GeeksforGeeks
 <h2>Steps to use </h2>
 
-<p> You need to install python's library first- “smtplib” .
+<p> You need to install python's library first- “smtplib” .<br>
 	Command - pip install smtplib
 <br>
 To send the email you need to Change Your Google Account Settings and allow Less Secure Apps
