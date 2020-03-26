@@ -15,8 +15,8 @@ https://myaccount.google.com/lesssecureapps\
 
 <br>
 
-After that add senders address and password 
-After that add required subject and message of the mail
-After that change the senders mail and recivers mail
-Refer to comments for further help.
+After that add senders email address and password and recivers email address in the required variables
+
+<br>
+Read comments for more guidance.
 </p>
