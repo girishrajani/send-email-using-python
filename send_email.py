@@ -1,5 +1,6 @@
 import smtplib
-
+# Don't Forget TO Install smtplib Library
+# pip install smtplib
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.ehlo()
