@@ -4,7 +4,7 @@ A repostory to send email using python
 
 
 <h1> A simple python code to send emails</h1>
-Reference: GeeksforGeeks
+
 <h2>Steps to use </h2>
 
 <p> You need to install python's library first- “smtplib” .<br>
